@@ -17,4 +17,8 @@ namespace VirtualMethods
     {
 
     }
+    public class Demo2
+    {
+
+    }
 }
